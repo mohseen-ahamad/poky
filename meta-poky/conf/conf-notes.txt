@@ -1,0 +1,22 @@
+### Welcome to the RUGGED BOARD A5D2x BSP-Yocto buildsystem.. ###
+
+You can now run 'bitbake <target>'
+
+for rugged board a5d2x(SDCARD)
+
+    Set  machine name to "rugged-board-a5d2x-sd1" in conf/local.conf
+
+    $ bitbake rb-sd-core-image-minimal
+
+Common targets are:
+    core-image-minimal
+    core-image-sato
+    meta-toolchain
+    meta-ide-support
+
+▛▀▖              ▌ ▛▀▖           ▌ ▞▀▖▛▀▘  ▌▞▀▖
+▙▄▘▌ ▌▞▀▌▞▀▌▞▀▖▞▀▌ ▙▄▘▞▀▖▝▀▖▙▀▖▞▀▌ ▙▄▌▙▄ ▞▀▌ ▗▘▚▗▘
+▌▚ ▌ ▌▚▄▌▚▄▌▛▀ ▌ ▌ ▌ ▌▌ ▌▞▀▌▌  ▌ ▌ ▌ ▌▖ ▌▌ ▌▗▘ ▗▚
+▘ ▘▝▀▘▗▄▘▗▄▘▝▀▘▝▀▘ ▀▀ ▝▀ ▝▀▘▘  ▝▀▘ ▘ ▘▝▀ ▝▀▘▀▀▘▘ ▘
+
+
